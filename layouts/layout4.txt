@@ -21,7 +21,8 @@
 [grav]>[int1]
 [down]>[int2]
 [cbrk]>[int3]
-[rfn]>[fn1t]
+[rfn]>[fn1s]
+[lfn]>[fn1t]
 
 {int1}>{x1}{-rshf}{bsls}{+rshf}
 {int2}>{x1}{-rshf}{scol}{+rshf}
@@ -66,6 +67,7 @@
 {k}>{x1}{-rshf}{9}{+rshf}
 {l}>{x1}{-rshf}{0}{+rshf}
 {apos}>{x1}{-rshf}{cbrk}{+rshf}
+{caps}>{x1}{caps}{-lwin}{e}{+lwin}{caps}
 
 <function2>
 
